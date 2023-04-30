@@ -1,7 +1,15 @@
-# Train Travel Planner and Booking Platform for Europe 🚂🌍💻
+<head>
+  <link rel="stylesheet" type="text/css" href="./styles.css">
+</head>
 
-<img src="./TrainExplorer_map.JPG" alt="Screenshot 1" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 400px;">
-<img src="./TrainExplorer_lobby.JPG" alt="Screenshot 1" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 400px;">
+<body>
+
+
+# Train Travel Planner and Booking Platform for Europe 🚂🌍💻
+<div class="screenshots">
+  <img src="./TrainExplorer_map.JPG" alt="Screenshot 1" class="screenshot">
+  <img src="./TrainExplorer_lobby.JPG" alt="Screenshot 2" class="screenshot">
+</div>
 
 This project is a train travel planning and booking platform designed to simplify the process of finding and booking train tickets in Europe. The platform integrates openrail routing data and several APIs, including SNCF, Flixbus, OBB, Mav-start, and BlaBlaCar, to provide users with accurate and up-to-date information on journey options and ticket availability. The platform is developed using **Next.js**, **TailwindCSS**, and **Supabase**, ensuring high performance, scalability, and seamless data storage and management.
 
@@ -50,6 +58,8 @@ These APIs are used to fetch journey options, ticket prices, and availabilities,
 To use these APIs, you will need to obtain API keys and configure them in your project's environment variables. Make sure to follow the documentation for each API to learn more about the endpoints, parameters, and data formats required for making requests.
 
 You will also need to obtain API keys for the various APIs used in the project and set up a Supabase account to manage data storage and management.
+
+</body>
 
 ## Contribution Guidelines 🤝
 If you would like to contribute to the project, please contact us
