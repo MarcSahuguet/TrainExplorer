@@ -21,28 +21,29 @@ We looked at these platforms to identify best practices and features that would 
 - Efficient data storage and management using Supabase
 - Mobile optimization for easy access and use on-the-go
 
-## Technologies Used 🛠️
+## Tech Stack 🛠️
 
 - Next.js
 - TailwindCSS
 - Supabase
-- Openrail routing data
-- SNCF API
-- Flixbus API
-- OBB API
-- Mav-start API
-- BlaBlaCar API
+- ShadnUI
 - Vercel
+- Cleck
 
-## Getting Started 🚀
+## APIs Used 🚀
+The project relies on the following APIs for fetching train data and ticket availability:
 
-To get started with the project, you can clone the repository and install the dependencies using the following commands:
+| API           | Description                                                    |
+|---------------|----------------------------------------------------------------|
+| SNCF API      | Provides train data for schedules, fares, and availability in France |
+| Flixbus API   | Provides bus data for schedules and ticket prices in Europe         |
+| OBB API       | Offers train data for Austria, Germany, and Italy                 |
+| Mav-start API | Provides train data for Hungary                                   |
+| BlaBlaCar API | Provides carpooling data for various destinations in Europe        |
 
-```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-npm install
-```
+These APIs are used to fetch journey options, ticket prices, and availabilities, and provide real-time data to the user, ensuring that the information displayed on the platform is accurate and up-to-date.
+
+To use these APIs, you will need to obtain API keys and configure them in your project's environment variables. Make sure to follow the documentation for each API to learn more about the endpoints, parameters, and data formats required for making requests.
 
 You will also need to obtain API keys for the various APIs used in the project and set up a Supabase account to manage data storage and management.
 
