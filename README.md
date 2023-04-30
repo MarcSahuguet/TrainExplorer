@@ -27,6 +27,7 @@ We looked at these platforms to identify best practices and features that would 
 - TailwindCSS
 - Supabase
 - ShadnUI
+- Mapbox
 - Vercel
 - Cleck
 
