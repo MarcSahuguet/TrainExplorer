@@ -61,6 +61,12 @@ You will also need to obtain API keys for the various APIs used in the project a
 
 </body>
 
+## Potential API integrations 🚀
+| API           | Description                                                    |
+|---------------|----------------------------------------------------------------|
+| [SBB API](https://transport.opendata.ch/) | Provides train data for schedules, fares, and availability in Europe |
+| [SN International](https://www.nsinternational.com/en) | Provides train data for schedules, fares, and availability in Netherland |
+
 ## Contribution Guidelines 🤝
 If you would like to contribute to the project, please contact us
 The aim to get fundings to grow the tech
