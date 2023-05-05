@@ -70,7 +70,7 @@ You will also need to obtain API keys for the various APIs used in the project a
 
 ## Contribution Guidelines 🤝
 If you would like to contribute to the project, please contact us
-The aim to get fundings to grow the tech
+We are currently applying for funding to progress from proof of concept to MVP
 
 ## License 📜
 This project is licensed under the MIT License. See the LICENSE file for details.
