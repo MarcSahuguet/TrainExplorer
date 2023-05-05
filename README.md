@@ -70,6 +70,7 @@ You will also need to obtain API keys for the various APIs used in the project a
 
 ## Contribution Guidelines 🤝
 If you would like to contribute to the project, please contact us
+
 We are currently applying for funding to progress from proof of concept to MVP
 
 ## License 📜
